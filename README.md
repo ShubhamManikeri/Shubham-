@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham Manikeri.
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in web deveploment.
+- 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on Data Science and business analysis work.
 - 📫 How to reach me shubhamm5112001@gmail.com
 
