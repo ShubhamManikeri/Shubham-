@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shubham Manikeri.
-- 👀 I’m interested in web deveploment.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on Data Science and business analysis work.
+- 💞️ I’m looking to collaborate on web development work.
 - 📫 How to reach me shubhamm5112001@gmail.com
 
 <!---
